@@ -1,11 +1,11 @@
 # CS-255-Portfolio
 Work Performed in SNHU Course CS-255
 
-```*Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+*Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 ^What did you do particularly well?
 &If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 $How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-#How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?```
+#How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
 *DriverPass is a fictional client that seeks to provide driving lesson services to students seeking to pass their DMV exams both online through quizzes and in person through training. The client requested a system that was capable of managing appointments, tracking student progress through courses, managing course content and material, and tracking updates from DMV regulations.
 ^In these design documents, a particularly good care is taken in ensuring a consistent, secure, and flexible design is created to ensure that the client's needs are served fully and that the implementation and execution of the design is carried out flawlessly.
